@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl"  href="students.xslt" ?>
+<students xmlns="urn:students-academy-telerik-databases">
+  <student>
+    <name>Yen Barrett</name>
+    <sex>Male</sex>
+    <birthDate>04.01.16</birthDate>
+    <phone>(473) 744-9257</phone>
+    <email>Sed@sedsapienNunc.net</email>
+    <course>DB</course>
+    <specialty>Finances</specialty>
+    <facultyNumber>59477</facultyNumber>
+    <exams>
+      <exam>
+        <name>DB</name>
+        <tutor>Niki</tutor>
+        <score>70</score>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>MacKenzie U. Welch</name>
+    <sex>Male</sex>
+    <birthDate>17.03.16</birthDate>
+    <phone>(345) 957-4860</phone>
+    <email>lorem.sit@afacilisisnon.edu</email>
+    <course>C++</course>
+    <specialty>Tech Support</specialty>
+    <facultyNumber>46510</facultyNumber>
+    <exams>
+      <exam>
+        <name>DB</name>
+        <tutor>Niki</tutor>
+        <score>75</score>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>Kevin P. Russell</name>
+    <sex>Female</sex>
+    <birthDate>18.06.16</birthDate>
+    <phone>(361) 230-2521</phone>
+    <email>commodo@convalliserateget.net</email>
+    <course>C</course>
+    <specialty>Advertising</specialty>
+    <facultyNumber>64113</facultyNumber>
+    <exams>
+      <exam>
+        <name>C</name>
+        <tutor>Niki</tutor>
+        <score>100</score>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>Molly Evans</name>
+    <sex>Male</sex>
+    <birthDate>17.10.14</birthDate>
+    <phone>(278) 387-3447</phone>
+    <email>purus@rutrum.edu</email>
+    <course>JS</course>
+    <specialty>Payroll</specialty>
+    <facultyNumber>23694</facultyNumber>
+    <exams>
+      <exam>
+        <name>JS</name>
+        <tutor>Niki</tutor>
+        <score>1000</score>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>Erica C. Obrien</name>
+    <sex>Male</sex>
+    <birthDate>25.11.15</birthDate>
+    <phone>(821) 710-1817</phone>
+    <email>dictum.eu.placerat@atauctorullamcorper.ca</email>
+    <course>Pyton</course>
+    <specialty>Finances</specialty>
+    <facultyNumber>61091</facultyNumber>
+    <exams>
+      <exam>
+        <name>DB</name>
+        <tutor>Niki</tutor>
+        <score>70</score>
+      </exam>
+      <exam>
+        <name>C++</name>
+        <tutor>Niki</tutor>
+        <score>60</score>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>Owen J. Franklin</name>
+    <sex>Male</sex>
+    <birthDate>17.04.16</birthDate>
+    <phone>(639) 956-6946</phone>
+    <email>volutpat.ornare.facilisis@pretium.co.uk</email>
+    <course>C#</course>
+    <specialty>Customer Relations</specialty>
+    <facultyNumber>14006</facultyNumber>
+    <exams>
+      <exam>
+        <name>DB</name>
+        <tutor>Niki</tutor>
+        <score>70</score>
+      </exam>
+      <exam>
+        <name>C++</name>
+        <tutor>Niki</tutor>
+        <score>70</score>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>Maryam P. Mcknight</name>
+    <sex>Male</sex>
+    <birthDate>13.06.15</birthDate>
+    <phone>(293) 165-1186</phone>
+    <email>ac.mattis.velit@maurisrhoncusid.edu</email>
+    <course>OOP</course>
+    <specialty>Public Relations</specialty>
+    <facultyNumber>07180</facultyNumber>
+    <exams>
+      <exam>
+        <name>DB</name>
+        <tutor>Niki</tutor>
+        <score>70</score>
+      </exam>
+      <exam>
+        <name>OOP</name>
+        <tutor>Niki</tutor>
+        <score>90</score>
+      </exam>
+      <exam>
+        <name>C</name>
+        <tutor>Niki</tutor>
+        <score>20</score>
+      </exam>
+      <exam>
+        <name>C++</name>
+        <tutor>Niki</tutor>
+        <score>40</score>
+      </exam>
+    </exams>
+  </student>
+</students>

@@ -1,0 +1,26 @@
+﻿body{
+    background-color:#d5ddc6;
+    color:#0f753a;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+table{
+    border:1px solid green;
+    font-size:14px;
+    margin:25px auto;
+    text-align:left;
+  
+}
+
+table, th, td {
+  border:1px solid green;
+}
+
+
+th{
+    font-weight:bold;
+    color:#083e10;
+    padding: 10px 10px;
+}
+
+
