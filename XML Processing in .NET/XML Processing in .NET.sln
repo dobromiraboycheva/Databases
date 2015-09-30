@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLParsers", "XMLParsers\XMLParsers.csproj", "{8675B5AF-9D1C-4F02-8EA4-F4ED6F56BFC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomParserOfArtists", "DomParserOfArtists\DomParserOfArtists.csproj", "{1738162A-C519-46CE-9234-930B53605376}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XPathOfArtists", "XPathOfArtists\XPathOfArtists.csproj", "{A3BA93AF-1C2A-43E1-957C-C87B9D93E9BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeliteAlbumByMaxPrice", "DeliteAlbumByMaxPrice\DeliteAlbumByMaxPrice.csproj", "{E6DA7F34-88B6-40C3-A230-411AB18DBAA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlReader", "XmlReader\XmlReader.csproj", "{B67B4C28-92DD-4B75-B846-1EB7A65E55A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlReaderWithLinq", "XmlReaderWithLinq\XmlReaderWithLinq.csproj", "{50A1025C-15B5-459F-8F1B-D79C2265AC24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8675B5AF-9D1C-4F02-8EA4-F4ED6F56BFC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8675B5AF-9D1C-4F02-8EA4-F4ED6F56BFC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8675B5AF-9D1C-4F02-8EA4-F4ED6F56BFC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8675B5AF-9D1C-4F02-8EA4-F4ED6F56BFC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1738162A-C519-46CE-9234-930B53605376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1738162A-C519-46CE-9234-930B53605376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1738162A-C519-46CE-9234-930B53605376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1738162A-C519-46CE-9234-930B53605376}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3BA93AF-1C2A-43E1-957C-C87B9D93E9BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3BA93AF-1C2A-43E1-957C-C87B9D93E9BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3BA93AF-1C2A-43E1-957C-C87B9D93E9BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3BA93AF-1C2A-43E1-957C-C87B9D93E9BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6DA7F34-88B6-40C3-A230-411AB18DBAA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6DA7F34-88B6-40C3-A230-411AB18DBAA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6DA7F34-88B6-40C3-A230-411AB18DBAA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6DA7F34-88B6-40C3-A230-411AB18DBAA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B67B4C28-92DD-4B75-B846-1EB7A65E55A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B67B4C28-92DD-4B75-B846-1EB7A65E55A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B67B4C28-92DD-4B75-B846-1EB7A65E55A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B67B4C28-92DD-4B75-B846-1EB7A65E55A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50A1025C-15B5-459F-8F1B-D79C2265AC24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50A1025C-15B5-459F-8F1B-D79C2265AC24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50A1025C-15B5-459F-8F1B-D79C2265AC24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50A1025C-15B5-459F-8F1B-D79C2265AC24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

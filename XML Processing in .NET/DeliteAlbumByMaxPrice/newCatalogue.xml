@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalogue>
+  <album>
+    <name>What Lies Beyond</name>
+    <artist>Sevi</artist>
+    <year>2012</year>
+    <producer>SEVI</producer>
+    <price>12.89</price>
+    <songs>
+      <song>
+        <title>Fairy</title>
+        <duration>3:00</duration>
+      </song>
+      <song>
+        <title>Limited Edition</title>
+        <duration>3:10</duration>
+      </song>
+      <song>
+        <title>Speed Up</title>
+        <duration>3:06</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>The Offspring</name>
+    <artist>The Offspring</artist>
+    <year>1995</year>
+    <producer>Thom Wilson</producer>
+    <price>15.20</price>
+    <songs>
+      <song>
+        <title>A Thousand Days</title>
+        <duration>3:24</duration>
+      </song>
+      <song>
+        <title>Blackball</title>
+        <duration>3:11</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Made in Germany</name>
+    <artist>Rammstein</artist>
+    <year>2011</year>
+    <producer>Jacob Hellner and Rammstein</producer>
+    <price>19.98</price>
+    <songs>
+      <song>
+        <title>Engel</title>
+        <duration>4:25</duration>
+      </song>
+      <song>
+        <title>Du Hast</title>
+        <duration>3:55</duration>
+      </song>
+    </songs>
+  </album>
+</catalogue>
