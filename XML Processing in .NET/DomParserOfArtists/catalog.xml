@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<catalogue>
+<catalog>
   <album>
     <name>What Lies Beyond</name>
     <artist>Sevi</artist>
@@ -79,4 +79,4 @@
       </song>
     </songs>
   </album>
-</catalogue>
+</catalog>

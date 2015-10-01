@@ -13,18 +13,18 @@ namespace XPathOfArtists
         static void Main()
         {
             var document = new XmlDocument();
-            document.Load("../../catalogue.xml");
+            document.Load("../../catalog.xml");
             var root = document.DocumentElement;
 
             foreach (var autorInfo in GetArtistsFromXML(root))
             {
                 if (autorInfo.Value == 1)
                 {
-                    Console.WriteLine("{0} -> {1} album in the catalogue", autorInfo.Key, autorInfo.Value);
+                    Console.WriteLine("{0} -> {1} album in the catalog", autorInfo.Key, autorInfo.Value);
                 }
                 else
                 {
-                    Console.WriteLine("{0} -> {1} albums in the catalogue", autorInfo.Key, autorInfo.Value);
+                    Console.WriteLine("{0} -> {1} albums in the catalog", autorInfo.Key, autorInfo.Value);
                 }
 
             }
@@ -33,7 +33,7 @@ namespace XPathOfArtists
         private static Dictionary<string, int> GetArtistsFromXML(XmlElement root)
         {
             var artistsAlbums = new Dictionary<string, int>();
-            var artists = root.SelectNodes("/catalogue/album/artist");
+            var artists = root.SelectNodes("/catalog/album/artist");
 
             foreach (XmlNode artist in artists)
             {

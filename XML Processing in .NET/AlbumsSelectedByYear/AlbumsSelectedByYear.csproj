@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1738162A-C519-46CE-9234-930B53605376}</ProjectGuid>
+    <ProjectGuid>{1D621356-FDA7-48A6-BE52-2E40A3855348}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DomParserOfArtists</RootNamespace>
-    <AssemblyName>DomParserOfArtists</AssemblyName>
+    <RootNamespace>AlbumsSelectedByYear</RootNamespace>
+    <AssemblyName>AlbumsSelectedByYear</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DomParserOfArtists.cs" />
+    <Compile Include="AlbumsSelectedByYear.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

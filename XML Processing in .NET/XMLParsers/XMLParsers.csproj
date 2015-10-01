@@ -52,8 +52,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="catalogue.xml" />
-    <Content Include="catalogue.xslt" />
+    <Content Include="catalog.xml" />
+    <Content Include="catalog.xslt" />
     <Content Include="style.css" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

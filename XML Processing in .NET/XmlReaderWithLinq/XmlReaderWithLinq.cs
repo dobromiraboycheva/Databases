@@ -10,8 +10,8 @@ namespace XmlReaderWithLinq
     {
         static void Main()
         {
-            var document = XDocument.Load("../../catalogue.xml");
-            var albums = document.Element("catalogue").Elements("album");
+            var document = XDocument.Load("../../catalog.xml");
+            var albums = document.Element("catalog").Elements("album");
             var titles = from title in albums.Descendants("title") select title.Value;
 
             foreach (var title in titles)

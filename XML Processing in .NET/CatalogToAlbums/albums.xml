@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<albums>
+  <album>
+    <name xmlns="What Lies Beyond">
+      <artist>Sevi</artist>
+    </name>
+    <album>
+      <name xmlns="The Offspring">
+        <artist>The Offspring</artist>
+      </name>
+      <album>
+        <name xmlns="Liebe ist für alle da">
+          <artist>Rammstein</artist>
+        </name>
+        <album>
+          <name xmlns="Made in Germany">
+            <artist>Rammstein</artist>
+          </name>
+        </album>
+      </album>
+    </album>
+  </album>
+</albums>

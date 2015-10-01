@@ -13,13 +13,13 @@ namespace DeliteAlbumByMaxPrice
             const double maxPrice = 20.0;
 
             var document = new XmlDocument();
-            document.Load("../../catalogue.xml");
+            document.Load("../../catalog.xml");
             var root = document.DocumentElement;
 
             DeliteAlbumByMaxPrice(root, maxPrice);
-            document.Save("../../newCatalogue.xml");
+            document.Save("../../newCatalog.xml");
 
-            Console.WriteLine("The new catalogue with prices less then {0} was save in newCatalogue.xml",maxPrice);
+            Console.WriteLine("The new catalogue with prices less then {0} was save in newCatalog.xml",maxPrice);
         }
 
         private static void DeliteAlbumByMaxPrice(XmlElement root, double maxPrice)

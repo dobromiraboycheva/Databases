@@ -9,7 +9,7 @@ namespace XmlReader
     {
         private static void Main()
         {
-            using (XmlReader reader = new XmlTextReader("../../catalogue.xml"))
+            using (XmlReader reader = new XmlTextReader("../../catalog.xml"))
             {
                 while (reader.Read())
                 {
